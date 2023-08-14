@@ -1,0 +1,3 @@
+1 - Faça uma listagem de 6 filmes de sua escolha com array e faça eles serem impressos no console.log através de repetição
+2 - Fazer a tabuada de 8 com repetições
+3 - Fazer as tabuadas de 1 até 10 com repetições
