@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(176, 176, 176);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#teste{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    color: white;
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
