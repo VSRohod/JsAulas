@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(189, 189, 189);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#inputDaPagina{
+    width: 200px;
+    height: 30px;
+}
