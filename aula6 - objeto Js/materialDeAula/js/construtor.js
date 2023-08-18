@@ -11,6 +11,9 @@ class Dono {
         this.nome = nome;
         this.idade = idade;
         this.endereco = "Ceilandia";
+        this.teste = function(valor){
+            return valor
+        }
     } 
 }
 
