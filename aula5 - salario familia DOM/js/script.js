@@ -32,7 +32,7 @@ function verificar(){
                         familia = 0;
                     }
                 }
-                resultado.style.display = "block";
+                resultado.style.display = "flex";
                 resultado.innerHTML = `${empregado.value}, o salário familia é de: R$: ${familia}`;
             }
         }
