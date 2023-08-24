@@ -1,0 +1,9 @@
+.temaDark{
+    background-color: black;
+    transition: 1s;
+}
+
+.temaLight{
+    background-color: rgb(218, 218, 218);
+    transition: 1s;
+}
