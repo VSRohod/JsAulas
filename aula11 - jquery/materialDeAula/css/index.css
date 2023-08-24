@@ -1,3 +1,7 @@
+body{
+    background-color: gray;
+}
+
 .temaDark{
     background-color: black;
     transition: 1s;
