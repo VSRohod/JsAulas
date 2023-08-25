@@ -1,0 +1,3 @@
+1) Fazer um script de tabuada sendo que o usuario possa escolher de 1 a 10
+2) Implementar o botão do tema dark e tema light no exercicio 2 da aula passada
+3) Implementar no exercicio 2 da aula passada a questão de contagem de caracteres e palavras

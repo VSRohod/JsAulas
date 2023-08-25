@@ -1,0 +1,10 @@
+.temaClaro{
+    background-color: white;
+    transition: 0.5s;
+}
+
+.temaEscuro{
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
