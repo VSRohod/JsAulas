@@ -18,14 +18,14 @@ Material utilizado em sala de aula de Javascript 🚀
 <li>🟢Aula 5 Salario familia DOM - okay </li>
 <li>🟢Aula 6 Objeto Js - okay </li>
 <li>🟢Aula 7 Objeto js atividades - okay </li>
-<li>🟢Aula 8 ECMASCRIPT 8 e 9 - okay </li>
-<li>🟢Aula 9 ECMASCRIPT atividades - okay </li>
+<li>🟢Aula 8 e 9 ECMASCRIPT 8 e 9 - okay </li>
+<li>🟢Aula 10 ECMASCRIPT atividades - okay </li>
 <hr>
  <h4>Jquery</h4>
-<li>🟢Aula 10 Jquery - okay </li>
-<li>🟢Aula 11 Jquery2 - okay </li>
+<li>🟢Aula 11 Jquery - okay </li>
+<li>🟢Aula 12 Jquery2 - okay </li>
 <hr>
-<li>🟢Aula 12 Revisão - Precisa upar! </li>
-<li>🟡Aula 13 Prova - Precisa upar! </li>
-<li>🟡Aula 14 Recuperação - Precisa upar! </li>
+<li>🟢Aula 13 Revisão - Precisa upar! </li>
+<li>🟡Aula 14 Prova - Precisa upar! </li>
+<li>🟡Aula 15 Recuperação - Precisa upar! </li>
 </ul>
