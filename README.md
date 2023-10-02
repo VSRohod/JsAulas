@@ -20,8 +20,11 @@ Material utilizado em sala de aula de Javascript 🚀
 <li>🟢Aula 7 Objeto js atividades - okay </li>
 <li>🟢Aula 8 ECMASCRIPT 8 e 9 - okay </li>
 <li>🟢Aula 9 ECMASCRIPT atividades - okay </li>
+<hr>
+ <h4>Jquery</h4>
 <li>🟢Aula 10 Jquery - okay </li>
 <li>🟢Aula 11 Jquery2 - okay </li>
+<hr>
 <li>🟡Aula 12 Prova - Precisa upar! </li>
 <li>🟡Aula 13 Recuperação - Precisa upar! </li>
 </ul>
