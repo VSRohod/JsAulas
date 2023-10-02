@@ -18,7 +18,7 @@ Material utilizado em sala de aula de Javascript 🚀
 <li>🟢Aula 5 Salario familia DOM - okay </li>
 <li>🟢Aula 6 Objeto Js - okay </li>
 <li>🟢Aula 7 Objeto js atividades - okay </li>
-<li>🟢Aula 8 e 9 ECMASCRIPT 8 e 9 - okay </li>
+<li>🟢Aula 8 e 9 ECMASCRIPT - okay </li>
 <li>🟢Aula 10 ECMASCRIPT atividades - okay </li>
 <hr>
  <h4>Jquery</h4>
