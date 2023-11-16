@@ -25,7 +25,7 @@ Material utilizado em sala de aula de Javascript 🚀
 <li>🟢Aula 11 Jquery - okay </li>
 <li>🟢Aula 12 Jquery2 - okay </li>
 <hr>
-<li>🟢Aula 13 Revisão - Precisa upar! </li>
-<li>🟡Aula 14 Prova - Precisa upar! </li>
-<li>🟡Aula 15 Recuperação - Precisa upar! </li>
+<li>🟢Aula 13 Revisão - okay </li>
+<li>🟢Aula 14 Prova - okay </li>
+<li>🟢Aula 15 Recuperação - okay </li>
 </ul>
