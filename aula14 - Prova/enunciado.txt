@@ -1,0 +1,11 @@
+Atividade Avaliativa 4 - Projeto completo
+Os alunos deverão desenvolver as suas últimas 3 páginas,no total tendo ao menos 8 páginas o projeto, sendo totalmente livre e utilizando todos os conhecimentos adquiridos durante o curso, tendo as seguintes regras de avaliação:
+- Nessas últimas páginas o conteúdo deverá estar dentro do tema escolhido, tendo assim um projeto com 8 páginas ao todo
+- Em pelo menos uma página, deverá ter ao menos um script de Javascript, a critério do aluno e um elemento com efeito slide ou dropdown
+- O projeto ao todo deverá ser responsivo com o uso do Media Query (@media)
+
+(ou ao menos as novas 3 páginas )
+Obs: Se seu site for de temas relacionados a blogs, noticias ou receitas, preferencialmente deverá ser desenvolvido Media Query para a versão impressa! 
+- Poderá ser utilizado : HTML, CSS, Bootstrap, Javascript e Jquery
+- Páginas extras serão opcionais ao aluno caso queira implementar o projeto
+- Todas as partes do projeto, sendo a 2 e 3 deverão ser integradas na entrega do trabalho final
