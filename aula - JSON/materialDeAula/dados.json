@@ -1,0 +1,18 @@
+{
+    "usuarios": [
+        {
+            "userName": "Bill",
+            "userLastName": "Cipher",
+            "userYO": 21,
+            "userSex": "Male",
+            "userEmail": "billcipher@gmail.com"
+        },
+        {
+            "userName": "Jack",
+            "userLastName": "Stauber",
+            "userYO": 23,
+            "userSex": "Male",
+            "userEmail": "jack@hotmail.com"
+        }
+    ]
+} 
