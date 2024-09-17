@@ -13,6 +13,13 @@
             "userYO": 23,
             "userSex": "Male",
             "userEmail": "jack@hotmail.com"
+        },
+        {
+            "userName": "Jessica",
+            "userLastName": "Jones",
+            "userYO": 28,
+            "userSex": "Female",
+            "userEmail": "alias@gmail.com"
         }
     ]
 } 
