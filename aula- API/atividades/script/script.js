@@ -1,35 +1,46 @@
 const APIKEY = '7843ddfd'
 const formPesquisa = document.querySelector("form")
 
+
+// No evento de submit roda função 
 formPesquisa.onsubmit = (env) => {
+    // preventDefault - evita que o formulário seja enviado a um outro url
+    // por isso passamos env!
     env.preventDefault();
 
-    const pesquisa = env.target.pesquisa.value;
+    const pesquisa = document.querySelector("#pesquisarInput").value;
 
     if (pesquisa == ""){
         alert("Preencha o campo de pesquisa!")
         return
     }
 
+    // busca api e devolve os dados em um json como parametro da função
     fetch(`https://www.omdbapi.com/?s=${pesquisa}&apikey=${APIKEY}`).then(result => result.json()).then(json => carregaLista(json));
-
+    
     const carregaLista = (json) => {
-        const lista = document.querySelector("div.lista");
+        console.log(json)
+        // desce o nivel da listagem
+        var listaDeFilmes = json.Search
+        const lista = document.querySelector(".lista");
+
         lista.innerHTML = "";
 
-        json.Search.forEach(element => {
-            console.log(element)
-            element.map((dados) => {
-                console.log(dados)
-                // divUsuarios.innerHTML += `
-                // <div>
-                // <h4> USUARIO : ${dados.userName + " " +dados.userLastName}  </h4>
-                // <p> IDADE : ${dados.userYO} </p>
-                // <p> EMAIL : ${dados.userEmail} </p>
-                // <p> SEXO : ${dados.userSex} </p>
-                // </div>
-                // `
-            })
+        if(listaDeFilmes == "" || listaDeFilmes == undefined){
+            alert("Nenhum filme encontrado");
+            return
+        }
+
+        listaDeFilmes.forEach(element => {
+            lista.innerHTML += `
+            <div class="filmes">
+                <img src="${element.Poster}">
+                <h2>${element.Title}</h2>
+                <p>${element.Year}<p>
+                <p>${element.Type}<p>
+            </div>
+            
+            `
         });
     }
 }
