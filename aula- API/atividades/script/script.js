@@ -38,6 +38,7 @@ formPesquisa.onsubmit = (env) => {
                 <h2>${element.Title}</h2>
                 <p>${element.Year}<p>
                 <p>${element.Type}<p>
+                <p>${element.imdbID}<p>
             </div>
             
             `
