@@ -1,15 +1,15 @@
 var livros = [
-    ['Harry Potter', "images/livros/percy2.jpg"],
-    ['Divergente', "images/livros/percy5.jpg"],
-    ['Lego', "images/livros/percy3.jpg"],
-    ['Teste', "images/livros/percy1.jpg"],
-    ['Go', "images/livros/percy4.jpg"]
+    ['Harry Potter', "../images/livros/percy2.jpg"],
+    ['Divergente', "../images/livros/percy2.jpg"],
+    ['Lego', "../images/livros/percy3.jpg"],
+    ['Teste', "../images/livros/percy1.jpg"],
+    ['Go', "../images/livros/percy4.jpg"]
 ]
 
 livros.forEach((cadaLivro)=> {
     console.log(cadaLivro)
 
-    document.getElementById("catalogo").innerHTML += `
+    document.getElementById("bibliotecaLivros").innerHTML += `
         <div class="books">
             <img src="${cadaLivro[1]}" alt="" class="booksImg">
             <div class="booksDesc">
