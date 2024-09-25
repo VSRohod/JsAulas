@@ -29,7 +29,6 @@ button{
     border: 2px solid var(--branco);
     border-radius: 10px;
     padding: 10px;
-    margin: 20px;
 }
 
 section, header , footer {
@@ -55,11 +54,13 @@ header{
     justify-content: space-around;
     padding: 20px 0px;
     background-color: var(--pretoTransparent);
+    margin: 20px auto;
 }
 
 nav ul{
     list-style: none;
     display: flex;
+    align-items: center;
     gap: 20px;
 }
 
@@ -76,7 +77,9 @@ nav a{
 
 .books{
     width: 200px;
+    height: 500px;
     padding: 10px;
+    overflow-y: hidden;
     box-shadow: 5px 5px 20px var(--pretoTransparent);
     border-radius: 5px;
 }
@@ -88,4 +91,12 @@ nav a{
 
 .booksImg{
     width: 100%;
+}
+
+
+footer{
+    width: 100%;
+    padding: 20px 0px;
+    background-color: var(--preto);
+    color: var(--branco);
 }
